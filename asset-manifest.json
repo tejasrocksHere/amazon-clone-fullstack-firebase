@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tejasrocksHere/amazon-clone-fullstack-firebase-/static/css/main.128b11b6.css",
+    "main.js": "/tejasrocksHere/amazon-clone-fullstack-firebase-/static/js/main.6c710fd1.js",
+    "static/js/787.e5fc1411.chunk.js": "/tejasrocksHere/amazon-clone-fullstack-firebase-/static/js/787.e5fc1411.chunk.js",
+    "static/media/2.jpg": "/tejasrocksHere/amazon-clone-fullstack-firebase-/static/media/2.4281893b8f370aa93901.jpg",
+    "index.html": "/tejasrocksHere/amazon-clone-fullstack-firebase-/index.html",
+    "main.128b11b6.css.map": "/tejasrocksHere/amazon-clone-fullstack-firebase-/static/css/main.128b11b6.css.map",
+    "main.6c710fd1.js.map": "/tejasrocksHere/amazon-clone-fullstack-firebase-/static/js/main.6c710fd1.js.map",
+    "787.e5fc1411.chunk.js.map": "/tejasrocksHere/amazon-clone-fullstack-firebase-/static/js/787.e5fc1411.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.128b11b6.css",
+    "static/js/main.6c710fd1.js"
+  ]
+}
